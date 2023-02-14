@@ -1,2 +1,3 @@
 fichero2 segunda versiond de version. Esto es texto
 fichero2 segunda versiond de version. Esto es texto.linea mod
+modifica fic2 por iss53
